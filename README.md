@@ -1,3 +1,5 @@
+![screenshot](https://github.com/rc1/iTermTo/raw/master/screenshot.png)
+
 # iTermTo
 
 Click the Application to open the current Finder folder in iTerm.  
