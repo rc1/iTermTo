@@ -10,6 +10,8 @@ Drag the app to the finder toolbar (may need hold the command key and possibly t
 
 # Download
 
+If you get the error "iTermTo.app is damaged and can't be opened" please see [this guide](http://www.tech-recipes.com/rx/45404/mac-downloaded-app-is-damaged-and-cant-be-opened-error-solved/) to allow apps downloaded from the internet or see this [closed issue](https://github.com/rc1/iTermTo/issues/9).
+
 [iTermTo for iTerm2 v2.9+](https://github.com/rc1/iTermTo/releases/download/v2.9/iTermTo.zip)
 
  
